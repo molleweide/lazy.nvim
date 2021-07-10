@@ -1,8 +1,12 @@
-# neovim-lua-plugin-boilerplate
+# lazy.nvim
 
-## How to use
-
-* clone the project `git clone https://github.com/s1n7ax/neovim-lua-plugin-boilderplate`
-* go to the project folder `cd neovim-lua-plugin-boilderplate`
-* start editing `nvim --cmd "set rtp+=."`
 * reference the Lua file `:luafile plugin/helloworld.lua`
+
+# Purpose
+
+Easily create double chars `aa`, `bb`, and `cc`, etc. so that you don't
+have to waste calories by lifting and tapping keys all the time.
+
+# TODO
+
+everything... come back later
